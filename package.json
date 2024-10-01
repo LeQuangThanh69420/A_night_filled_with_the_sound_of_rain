@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "雨音に満ちる夜 -A night filled with the sound of rain-",
+        "width": 1024,
+        "height": 576,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
